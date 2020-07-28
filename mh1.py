@@ -65,10 +65,7 @@ def mh():
         loses += 1
 
 
-total_rounds = range(100)
-
-
-for i in total_rounds:
+for i in range(100):
     mh()
 
 
