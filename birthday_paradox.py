@@ -11,7 +11,7 @@ def birthday():
 
     }
 
-    for i in range(1,24):
+    for i in range(1, 24):
         k = f's{i}'
         d[k] = randrange(1, 365)
 
